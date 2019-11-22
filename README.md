@@ -1,5 +1,4 @@
-## itjc8.com 搜集
-## 时间安排
+
 |    日期  |    主题  |   课程PPT  |  阅读材料  |  任务 | Deadline |
 |---------|---------|---------|---------|---------|---------|
 | 1.22 | [直播]开课典礼 & 课程介绍 & NLP概论  |[课程内容](http://47.94.6.102/NLPCamp2/Lesson1-Introduction) |[github 教学视频](http://www.greedyai.com/course/46) | [Homework#0](http://47.94.6.102/NLPCamp2/Homework0-SetupAccount)  ||
